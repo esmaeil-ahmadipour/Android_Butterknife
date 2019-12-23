@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rel_main_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="fill_vertical"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_main_BindSample1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true" />
+
+<fragment
+    android:id="@+id/fragment_main"
+    android:layout_below="@id/btn_main_BindSample1"
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    class="ir.sample.butterknifesample.MainFragment"/>
+
+    <!--    <Button-->
+    <!--        android:id="@+id/txt_main_btn2"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_below="@id/txt_main_btn1"-->
+    <!--        android:layout_centerInParent="true"-->
+    <!--        android:text="Hello World!" />-->
+    <!--    <Button-->
+    <!--        android:id="@+id/txt_main_btn3"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_below="@id/txt_main_btn2"-->
+    <!--        android:layout_centerInParent="true"-->
+    <!--        android:text="Hello World!" />-->
+    <!--    <Button-->
+    <!--        android:id="@+id/txt_main_btn4"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_below="@id/txt_main_btn3"-->
+    <!--        android:layout_centerInParent="true"-->
+    <!--        android:text="Hello World!" />-->
+
+</RelativeLayout>

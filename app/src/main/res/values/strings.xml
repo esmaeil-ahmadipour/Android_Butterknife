@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ButterknifeSample</string>
+    <string name="string_test">This is first test string.</string>
+    <string name="string_welcome">Welcome</string>
+    <string name="btn_Main_btn1">Bind Sample</string>
+    <string name="string_test2">This is secondary test string.</string>
+    <string name="string_test3">This is third test string.</string>
+
+
+</resources>

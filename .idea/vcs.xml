@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Backup/DesignPatternSingelton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Backup/MyApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MaterialDesignSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MvpSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RoomSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/s/Backup/DesignPatternSingelton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/s/Backup/MyApplication" vcs="Git" />
+  </component>
+</project>
